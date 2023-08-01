@@ -1,4 +1,4 @@
-Projeto de uma loja viartual de pizzaria.
+Projeto de uma loja virtual de pizzaria.
 
 projeto desenvolvido em aula.
 
